@@ -1,0 +1,65 @@
+*html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #2c2c2c;
+}
+
+.container {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+#col-sm-center {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+#snake {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.title {
+    color: yellowgreen;
+    font-size: 2rem;
+    font-family: sans-serif;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.footer {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 1vh;
+    font-family: sans-serif;
+    font-size: 0.6rem;
+    color: deepskyblue;
+}
+
+a {
+    font-family: sans-serif;
+    font-size: 0.6rem;
+    color:deepskyblue;
+    text-decoration: underline;
+}
+
+a:hover {
+    font-family: sans-serif;
+    font-size: 0.6rem;
+    color: yellowgreen;
+    text-decoration: none;
+}
+
+
+
+
