@@ -5,7 +5,7 @@ Tradicional Snake Game made with HTML, CSS and Javascript based on Javascript Co
 
 In this version, I used only features learned on class making little adjusts. I want to do some improvments like Welcome Screen, Play/Pause, Stop and Level Buttons. Insert it Scores and Ranking is so good to do.
 
-# Image 1 - The Game starts automatically
+# Image 1 - The Game starts automatically.
 <p align="left">
     <a href="https://i.imgur.com/JKHMTWq.jpg" target="_blank">
         <img alt="Snake Game Image 01" src="https://i.imgur.com/JKHMTWq.jpg">
@@ -14,14 +14,14 @@ In this version, I used only features learned on class making little adjusts. I 
 
 
 
-# Image 2 - You may use the Bellow, Up, Right and Left Arrows on Keyboard to move the Snake
+# Image 2 - You may use the Bellow, Up, Right and Left Arrows on Keyboard to move the Snake.
 <p align="left">
     <a href="https://i.imgur.com/66xG2SL.jpg" target="_blank">
         <img alt="Snake Game Image 02" src="https://i.imgur.com/66xG2SL.jpg">
     </a>
 </p>
 
-# Image 3 - If you touch on the bod of the Snake, an alert show a message of the GAME OVER
+# Image 3 - If you touch on the bod of the Snake, an alert show a message of the GAME OVER. Press F5 to Start.
 <p align="left">
 	<a href="https://i.imgur.com/zhuZNgK.jpg" target="_blank">
         	<img alt="Snake Game Image 03" src="https://i.imgur.com/zhuZNgK.jpg">
